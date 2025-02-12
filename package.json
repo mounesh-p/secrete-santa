@@ -1,0 +1,14 @@
+{
+  "name": "secrate-santa",
+  "version": "1.0.0",
+  "description": "1. Clone the repository.\r 2. Run following below command for both the folders frontend and backend\r 2. Run `npm install` to install dependencies.\r 3. Start the backend server: `npm run start`.\r 4. Start the React app: `npm run dev`.",
+  "main": "index.js",
+  "scripts": {
+    "install": "cd backend && npm install",
+    "start": "cd backend && npm run start",
+    "test": "cd backend && npm run test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
