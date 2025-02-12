@@ -4,6 +4,7 @@
 1. Clone the repository.
 2. Run `npm run install` to install dependencies.
 3. Start the server: `npm run start`.
+4. Go to http://localhost:5000 Url.
 
 ## Usage
 1. Upload the Employees CSV file.
